@@ -1,12 +1,12 @@
-# :wave : les bases de GitHub
+# :wave: les bases de GitHub
 
-** Traduction automatique **
+⚠️ 🇫🇷 **Traduction automatique** 🇫🇷 ⚠️
 
 ## 🤓 Aperçu du cours et résultats d'apprentissage
 
 L'objectif de ce cours est de vous donner une brève introduction à GitHub. Nous vous fournirons également du matériel pour un apprentissage plus approfondi et quelques idées pour vous aider à démarrer sur notre plateforme. 🚀
 
-## :octocat : Git et GitHub
+## :octocat: Git et GitHub
 
 Git est un **système de contrôle de version distribué (VCS)**, ce qui signifie qu'il s'agit d'un outil utile pour suivre facilement les modifications apportées à votre code, collaborer et partager. Avec Git, vous pouvez suivre les modifications que vous apportez à votre projet afin d'avoir toujours un enregistrement de ce sur quoi vous avez travaillé et de pouvoir facilement revenir à une version plus ancienne si nécessaire. Cela facilite également le travail avec les autres : des groupes de personnes peuvent travailler ensemble sur le même projet et fusionner leurs modifications en une seule source finale !
 
@@ -14,7 +14,7 @@ GitHub est un moyen d'utiliser la même puissance de Git en ligne avec une inter
 
 GitHub abrite certaines des technologies les plus avancées au monde. Que vous visualisiez des données ou que vous créiez un nouveau jeu, il existe toute une communauté et un ensemble d'outils sur GitHub qui peuvent vous faire passer à l'étape suivante. Ce cours commence par les bases de GitHub, mais nous approfondirons le reste plus tard.
 
-## :octocat : Comprendre le flux GitHub
+## :octocat: Comprendre le flux GitHub
 
 Le flux GitHub est un flux de travail léger qui vous permet d'expérimenter et de collaborer facilement sur vos projets, sans risquer de perdre votre travail précédent.
 
