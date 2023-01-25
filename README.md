@@ -1,4 +1,4 @@
-# :wave: les bases de GitHub
+# :wave: Les bases de GitHub
 
 ⚠️ 🇫🇷 **Traduction automatique** 🇫🇷 ⚠️
 
